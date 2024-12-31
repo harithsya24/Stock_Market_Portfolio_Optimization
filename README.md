@@ -26,7 +26,7 @@ Install the dependencies:
 pip install -r requirements.txt
 
 Open the Jupyter Notebook:
-jupyter notebook portfolio_optimization.ipynb
+jupyter notebook Stock_Markte_Portfolio_Optimization.ipynb
 
 ## Follow the steps in the notebook to:
 Load historical stock data.
